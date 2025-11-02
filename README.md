@@ -16,6 +16,10 @@ Let’s see how this works with a simple example.
 
 Imagine we’re building a small e-commerce app. We’ll start by defining a repository interface for managing products.
 
+You can find the complete sample code in this GitHub repository:
+
+https://github.com/m-aliozkaya/RepositoryPattern
+
 ### Domain model and context
 
 We start with a single entity and a matching `DbContext`.
